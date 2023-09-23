@@ -1,0 +1,2 @@
+Debug.WriteLine($"{DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")}
+Debug.WriteLine($"{System.Web.HttpContext.Current.User.Identity.Name} --- {DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")}

@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33919.361
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E5344315-11E7-454F-805E-83E04C3E8FFC}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTWeb", "DTWeb\DTWeb.csproj", "{C5277677-62FE-4444-A787-A86BB9EF9EEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{63907D8B-A2BB-4BDE-833E-3618EB4E1AC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5277677-62FE-4444-A787-A86BB9EF9EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5277677-62FE-4444-A787-A86BB9EF9EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5277677-62FE-4444-A787-A86BB9EF9EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5277677-62FE-4444-A787-A86BB9EF9EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63907D8B-A2BB-4BDE-833E-3618EB4E1AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63907D8B-A2BB-4BDE-833E-3618EB4E1AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63907D8B-A2BB-4BDE-833E-3618EB4E1AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63907D8B-A2BB-4BDE-833E-3618EB4E1AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {658B2BF4-4ABE-4519-BCDB-E034C60A48B0}
+	EndGlobalSection
+EndGlobal
