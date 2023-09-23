@@ -20,3 +20,11 @@
 + Google Maps
 + Banners
 + Advertising
+
+# Slug
+<pre>
+Open stack-overflow page 
+https://stackoverflow.com/questions/40956081
+You will be redirected to
+https://stackoverflow.com/questions/40956081/runtime-exception-thrown-when-stdvector-destructing
+</pre>
